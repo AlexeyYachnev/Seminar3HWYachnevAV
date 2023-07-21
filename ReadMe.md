@@ -41,3 +41,13 @@ Would you like pay?
 but it is
 # **FREE!!!** 
 Не получается организовать конфликт
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+No
+NO
