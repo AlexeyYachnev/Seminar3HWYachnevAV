@@ -33,5 +33,6 @@ Learn the syntax, bro!
 
 
 ## Why Git?
-
+Would you like pay?
+but it is
 # **FREE!!!** 
