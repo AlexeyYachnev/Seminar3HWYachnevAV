@@ -40,3 +40,4 @@ Learn the syntax, bro!
 Would you like pay?
 but it is
 # **FREE!!!** 
+Не получается организовать конфликт
