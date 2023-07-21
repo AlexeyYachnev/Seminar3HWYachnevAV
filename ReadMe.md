@@ -6,7 +6,7 @@
 * Helps to control information
 * Stores multiple versions of the same file
 * Helps to avoid confusion about file versions when editing multiple times
-* ~~Buy It!~~ FREE
+* ~~Buy It!~~ FREE for all
 
 ## Let's try to use It
 
