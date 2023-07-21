@@ -20,6 +20,18 @@ When using program Git, you will need to learn a few command codes
 * ***git checkout master*** - back to mommy
 * ***git diff*** - see all yours mistakes
 
+## If you suddenly use Markdown
+
+Learn the syntax, bro!
+
+* (#) or (=)  - # First level header
+* (##) or (-) - ## Point ahead
+* (**) or (__) - __BOLD__
+* (*) or (_) - *Italics*
+* (~~) - ~~Cross out~~
+* (***) - ***BOLD Italics***
+
+
 ## Why Git?
 
 # **FREE!!!** 
