@@ -8,7 +8,7 @@
 * Helps to avoid confusion about file versions when editing multiple times
 * ~~Buy It!~~ FREE for all
 
-## Let's try to use It
+## Let's try to use It possible
 
 When using program Git, you will need to learn a few command codes
 * ***git init*** - initializing the local repository
