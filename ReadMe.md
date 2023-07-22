@@ -35,7 +35,22 @@ Learn the syntax, bro!
 * (~~) - ~~Cross out~~
 * (***) - ***BOLD Italics***
 
+## Work with remote repositories
 
+***Work remotely, work from home!***
+
+To get started, you will need to register on the GitHub platform
+- Why is this necessary?
+- GitHub is a cloud storage of data, files and various code. If you have access to the files, then you can download and edit them, and then upload your own version so that other users who will have access can also download your version and edit it.
+- And everything will be fine, this is Lyuba saying
+
+Let's do it step by step
+
+1. We pass a simple registration
+
+2. Но никак не получается пушить в GitHub
+
+HELP
 ## Why Git?
 Would you like pay?
 but it is
